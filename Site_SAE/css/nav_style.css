@@ -1,0 +1,21 @@
+ul.menuItems {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+
+nav {
+    background-color: rgb(222, 217, 217); 
+}
+
+li {
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+div.nav {
+    color:black;
+}
+
+

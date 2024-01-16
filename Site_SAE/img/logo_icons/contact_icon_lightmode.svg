@@ -1,0 +1,21 @@
+<svg width="935" height="771" viewBox="0 0 935 771" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="935" height="771" fill="#F6F6F6"/>
+<rect id="Rectangle 1" x="66" y="165" width="127" height="442" fill="white"/>
+<rect id="Rectangle 2" x="440" y="165" width="127" height="442" fill="white"/>
+<rect id="Rectangle 3" x="746" y="165" width="127" height="442" fill="white"/>
+<g id="Frame 1">
+<rect width="433" height="113" transform="translate(66 165)" fill="white"/>
+</g>
+<g id="Frame 4">
+<rect width="433" height="113" transform="translate(440 494)" fill="white"/>
+</g>
+<g id="Frame 3">
+<rect width="275" height="113" transform="translate(129 330)" fill="white"/>
+</g>
+<g id="Frame 2">
+<rect width="935" height="113" fill="white"/>
+</g>
+<g id="Frame 5">
+<rect width="935" height="113" transform="translate(0 658)" fill="white"/>
+</g>
+</svg>

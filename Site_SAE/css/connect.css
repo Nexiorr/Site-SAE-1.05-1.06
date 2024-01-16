@@ -1,0 +1,47 @@
+input#Identifiant
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+#Nom, #icon{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+button
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+label
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    width: auto;
+    margin-bottom: 10px;
+}
