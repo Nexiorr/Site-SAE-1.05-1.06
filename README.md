@@ -1,3 +1,3 @@
 # Site-SAE-1.05-1.06
 
-"èhr"hr'fun
+# Développé par Dylan Zhang, Vincent Adriaenssens, Tom Ryckwaert
